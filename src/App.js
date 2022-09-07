@@ -1,4 +1,5 @@
 import { BrowserRouter, Switch, Route } from "react-router-dom";
+import Navbar from "./components/Navbar";
 
 // components & pages
 import Home from "./pages/home/Home";
@@ -9,6 +10,7 @@ function App() {
 	return (
 		<div className="App">
 			<BrowserRouter>
+				<Navbar />
 				<Switch>
 					<Route exact path="/">
 						<Home />
