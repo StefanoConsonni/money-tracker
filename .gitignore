@@ -3,6 +3,10 @@
 /.pnp
 .pnp.js
 
+# Firebase Hosting
+.firebaserc
+firebase-debug.log
+
 # testing
 /coverage
 
