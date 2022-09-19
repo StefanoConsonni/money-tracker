@@ -8,7 +8,7 @@
 
 ## General info
 
-An app that helps to keeps track of the daily expenses. I built it using React, the Context API and a Firebase database.
+An app that helps the users to keep track of the daily expenses. I built it using React, the Context API, Firebase database and authentication.
 
 ## Demo
 
